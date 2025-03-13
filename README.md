@@ -3,7 +3,7 @@
 > **냉장고 속 식재료를 관리하고, 현재 보유 중인 재료 기반 레시피를 추천하는 어플리케이션**  
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ad001535-a4b7-4ee3-9e8e-c331e7f9c047" width="60%" alt="앱 대표 이미지">
+  <img src="https://github.com/user-attachments/assets/ad001535-a4b7-4ee3-9e8e-c331e7f9c047" width="90%" alt="앱 대표 이미지">
 </p>
 
 
